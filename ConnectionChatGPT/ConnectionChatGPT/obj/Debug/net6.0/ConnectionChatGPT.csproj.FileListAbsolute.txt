@@ -1,0 +1,17 @@
+C:\RepositoryTraining\ExemploConnectChatGPT\ConnectionChatGPT\ConnectionChatGPT\bin\Debug\net6.0\ConnectionChatGPT.exe
+C:\RepositoryTraining\ExemploConnectChatGPT\ConnectionChatGPT\ConnectionChatGPT\bin\Debug\net6.0\ConnectionChatGPT.deps.json
+C:\RepositoryTraining\ExemploConnectChatGPT\ConnectionChatGPT\ConnectionChatGPT\bin\Debug\net6.0\ConnectionChatGPT.runtimeconfig.json
+C:\RepositoryTraining\ExemploConnectChatGPT\ConnectionChatGPT\ConnectionChatGPT\bin\Debug\net6.0\ConnectionChatGPT.dll
+C:\RepositoryTraining\ExemploConnectChatGPT\ConnectionChatGPT\ConnectionChatGPT\bin\Debug\net6.0\ConnectionChatGPT.pdb
+C:\RepositoryTraining\ExemploConnectChatGPT\ConnectionChatGPT\ConnectionChatGPT\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\RepositoryTraining\ExemploConnectChatGPT\ConnectionChatGPT\ConnectionChatGPT\obj\Debug\net6.0\ConnectionChatGPT.csproj.AssemblyReference.cache
+C:\RepositoryTraining\ExemploConnectChatGPT\ConnectionChatGPT\ConnectionChatGPT\obj\Debug\net6.0\ConnectionChatGPT.GeneratedMSBuildEditorConfig.editorconfig
+C:\RepositoryTraining\ExemploConnectChatGPT\ConnectionChatGPT\ConnectionChatGPT\obj\Debug\net6.0\ConnectionChatGPT.AssemblyInfoInputs.cache
+C:\RepositoryTraining\ExemploConnectChatGPT\ConnectionChatGPT\ConnectionChatGPT\obj\Debug\net6.0\ConnectionChatGPT.AssemblyInfo.cs
+C:\RepositoryTraining\ExemploConnectChatGPT\ConnectionChatGPT\ConnectionChatGPT\obj\Debug\net6.0\ConnectionChatGPT.csproj.CoreCompileInputs.cache
+C:\RepositoryTraining\ExemploConnectChatGPT\ConnectionChatGPT\ConnectionChatGPT\obj\Debug\net6.0\ConnectionChatGPT.csproj.CopyComplete
+C:\RepositoryTraining\ExemploConnectChatGPT\ConnectionChatGPT\ConnectionChatGPT\obj\Debug\net6.0\ConnectionChatGPT.dll
+C:\RepositoryTraining\ExemploConnectChatGPT\ConnectionChatGPT\ConnectionChatGPT\obj\Debug\net6.0\refint\ConnectionChatGPT.dll
+C:\RepositoryTraining\ExemploConnectChatGPT\ConnectionChatGPT\ConnectionChatGPT\obj\Debug\net6.0\ConnectionChatGPT.pdb
+C:\RepositoryTraining\ExemploConnectChatGPT\ConnectionChatGPT\ConnectionChatGPT\obj\Debug\net6.0\ConnectionChatGPT.genruntimeconfig.cache
+C:\RepositoryTraining\ExemploConnectChatGPT\ConnectionChatGPT\ConnectionChatGPT\obj\Debug\net6.0\ref\ConnectionChatGPT.dll

@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ConnectionChatGPT",
+    "\\ConnectionChatGPT\\ConnectionChatGPT"
   ],
+  "SelectedNode": "\\ConnectionChatGPT\\ConnectionChatGPT.sln",
   "PreviewInSolutionExplorer": false
 }

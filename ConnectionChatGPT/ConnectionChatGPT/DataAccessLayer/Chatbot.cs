@@ -10,7 +10,7 @@
             _client.Model = "text-davinci-003";
             _client.Temperature = 0.5;
         }
-
+    
         public async Task<string> GetResponse(string prompt)
         {
             return await _client.Completion(prompt);
