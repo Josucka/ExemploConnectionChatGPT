@@ -1,0 +1,32 @@
+﻿{
+  "$schema": "https://json.schemastore.org/launchsettings.json",
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:23121",
+      "sslPort": 44347
+    }
+  },
+  "profiles": {
+    "IntegrationWithOpenAI": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "applicationUrl": "https://localhost:7088;http://localhost:5158",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "openAISecret": "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"
+      }
+    },
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

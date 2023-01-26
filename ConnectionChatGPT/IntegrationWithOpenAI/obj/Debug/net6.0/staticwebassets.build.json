@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5RTSIAqrGGuDEenqIg+uGgrGLeMI8ADK2a8SwOX18N8=",
+  "Source": "IntegrationWithOpenAI",
+  "BasePath": "_content/IntegrationWithOpenAI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

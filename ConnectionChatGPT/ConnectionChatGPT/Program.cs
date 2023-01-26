@@ -2,7 +2,7 @@
 using ConnectionChatGPT.DataAccessLayer;
 using ConnectionChatGPT.PresentationLayer;
 
-string apiKey = "My KeyApi";
+string apiKey = "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";
 
 
 IChatbot chatbot = new Chatbot(apiKey);

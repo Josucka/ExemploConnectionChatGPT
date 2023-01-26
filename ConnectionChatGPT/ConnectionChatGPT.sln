@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectionChatGPT", "ConnectionChatGPT\ConnectionChatGPT.csproj", "{7892C9CE-4FD1-4240-B8EB-209B7E4E35EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConnectionChatGPT", "ConnectionChatGPT\ConnectionChatGPT.csproj", "{7892C9CE-4FD1-4240-B8EB-209B7E4E35EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegrationWithOpenAI", "IntegrationWithOpenAI\IntegrationWithOpenAI.csproj", "{5AAF2553-A57D-419C-BD13-B928E0FB2748}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{7892C9CE-4FD1-4240-B8EB-209B7E4E35EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7892C9CE-4FD1-4240-B8EB-209B7E4E35EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7892C9CE-4FD1-4240-B8EB-209B7E4E35EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AAF2553-A57D-419C-BD13-B928E0FB2748}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AAF2553-A57D-419C-BD13-B928E0FB2748}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AAF2553-A57D-419C-BD13-B928E0FB2748}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AAF2553-A57D-419C-BD13-B928E0FB2748}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
